@@ -1,5 +1,0 @@
-com\engie\LogParserApplication.class
-com\engie\App.class
-com\engie\tractebel\log\service\ILogParser.class
-com\engie\tractebel\log\service\impl\LogParserImpl.class
-com\engie\tractebel\log\configuration\LogConfiguration.class
