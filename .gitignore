@@ -1,5 +1,4 @@
 *.classpath
-*.idea/
 *.project
 *.settings
 *.iml
@@ -8,3 +7,8 @@
 bin/
 logs/
 target/
+.idea/
+log-parser.iml
+log-parser-service/log-parser-service.iml
+log-parser-service/target/
+
