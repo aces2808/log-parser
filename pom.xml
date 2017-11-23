@@ -29,8 +29,6 @@
 
         <!-- Spring versions -->
         <version.spring-boot>1.5.8.RELEASE</version.spring-boot>
-        <version.springfox-swagger2>2.6.1</version.springfox-swagger2>
-        <version.springfox-swagger-ui>2.6.1</version.springfox-swagger-ui>
 
         <!-- CSP Dependencies -->
 
@@ -122,18 +120,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-mongodb</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>io.springfox</groupId>
-            <artifactId>springfox-swagger2</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>io.springfox</groupId>
-            <artifactId>springfox-swagger-ui</artifactId>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
